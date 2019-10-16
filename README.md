@@ -7,10 +7,10 @@ To work on localhost,
 
 Execute following commands
 
-npm init
-node install express --save
-node install nodemon --save -dev
-node install socket.io --save
+- npm init
+- node install express --save
+- node install nodemon --save -dev
+- node install socket.io --save
 
 
 Hit on localhost:4000/
